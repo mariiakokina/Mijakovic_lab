@@ -1,6 +1,6 @@
-# Instructions for Working with Day 4 - MSstats Exercises
+# Instructions for Working with MSstats 
 
-Before you start working on the exercises, you need to make sure that:
+Before you start working, you need to make sure that:
 
 1. R is installed ([https://cloud.r-project.org](https://cloud.r-project.org))
 2. RStudio is installed ([https://rstudio.com/products/rstudio/download/](https://rstudio.com/products/rstudio/download/))
